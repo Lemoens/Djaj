@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(230, 232, 214);
+}
+
+Rubrik{
+    background-color: lawngreen;
+    font-size: 84px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+dagsrubrik{
+
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+yerp{
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.veckan{
+    background-color: #e1ffca;
+    padding-bottom: 5%;
+    padding-top: 2%;
+    
+}
